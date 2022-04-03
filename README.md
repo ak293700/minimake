@@ -1,4 +1,6 @@
 # minimake
+[SchoolProject]
+
 Create a compiler management tools, based on make.
 
 How to use it:
